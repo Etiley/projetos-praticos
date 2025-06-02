@@ -1,0 +1,20 @@
+.nav-color{
+    background-color: darkgreen;
+    padding: 10px;
+    color: white;
+}
+
+.nav li a{
+    color: white;
+}
+
+i{
+    font-style: normal;
+    color: white;
+}
+
+h1{
+    padding: 10px;
+    text-align: center;
+    color: darkgreen !important;
+}
