@@ -14,7 +14,23 @@ i{
 }
 
 h1{
-    padding: 10px;
     text-align: center;
     color: darkgreen !important;
+}
+
+.perguntas{
+    padding: 80px;
+}
+
+.verde{
+    background-color: rgb(222, 241, 222);
+    padding: 80px;
+    text-align: center;
+}
+
+.verde2{
+    background-color: darkgreen;
+    text-align: center;
+    padding: 30px;
+    color: white;
 }
